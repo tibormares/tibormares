@@ -2,6 +2,7 @@
 - 👋 Hi, I'm Tibor.
 - 💪 Java Backend Developer focused on building robust and scalable applications.
 - 🌱 Currently deepening my expertise in the Spring ecosystem and cloud technologies.
+- 🤔 A natural problem-solver, driven by curiosity and a need for order.
 
 ## 🧠 Languages & Tools
 <p align="center">
