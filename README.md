@@ -1,12 +1,13 @@
 ## About Me
 - 👋 Hi, I'm Tibor.
-- 💪 Java Backend Developer focused on building robust and scalable applications.
+- 💪 Java Developer focused on building robust and scalable applications.
 - 🌱 Currently deepening my expertise in the Spring ecosystem and cloud technologies.
 - 🤔 A natural problem-solver, driven by curiosity and a need for order.
 
 ## 🧠 Languages & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaFX-%230D73B6?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/Hibernate-%2359666C?style=for-the-badge&logo=hibernate&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-%2307405e?style=for-the-badge&logo=postgresql&logoColor=white" />
