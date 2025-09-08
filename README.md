@@ -1,7 +1,7 @@
 ## About Me
 - 👋 Hi, I'm Tibor.
-- 💪 Java Developer focused on building robust and scalable applications.
-- 🌱 Currently deepening my expertise in the Spring ecosystem and cloud technologies.
+- 🔧 Industrial Engineer with a passion for technology and automation.
+- 🌱 Exploring backend development (Java, Spring) to build efficient and systematic solutions.
 - 🤔 A natural problem-solver, driven by curiosity and a need for order.
 
 ## 🧠 Languages & Tools
